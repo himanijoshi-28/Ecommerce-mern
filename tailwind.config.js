@@ -7,6 +7,7 @@ export default {
   plugins: [
     require("@tailwindcss/aspect-ratio"),
     require("@tailwindcss/forms"),
+    require("@tailwindcss/forms"),
   ],
   // need to install this to use components
 };
